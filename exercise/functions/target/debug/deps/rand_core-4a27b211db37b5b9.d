@@ -1,0 +1,12 @@
+/Users/xin.jin/rust/exercise/functions/target/debug/deps/rand_core-4a27b211db37b5b9.rmeta: /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/xin.jin/rust/exercise/functions/target/debug/deps/librand_core-4a27b211db37b5b9.rlib: /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/xin.jin/rust/exercise/functions/target/debug/deps/rand_core-4a27b211db37b5b9.d: /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs /Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs
+
+/Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/lib.rs:
+/Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/block.rs:
+/Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/error.rs:
+/Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/impls.rs:
+/Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/le.rs:
+/Users/xin.jin/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.3/src/os.rs:
