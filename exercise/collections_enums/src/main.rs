@@ -73,6 +73,9 @@ fn main() {
         total += shot.points();
     }
     println!("Final point total is {}", total);
+
+    // Option
+    let some_number :Option<i32> = Some(5)
 }
 
 #[derive(Debug)]
